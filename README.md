@@ -9,4 +9,4 @@ This is my personal portfolio website showcasing my web development projects, sk
 
 ## Live Demo
 You can view the live version of my portfolio here: 
-https://ryansharpnack.github.io/
+https://RyanSoftwareDeveloper.github.io/
